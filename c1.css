@@ -21,17 +21,17 @@ body
 #header
 {
 	margin:          0 auto;
-	width:           500px;
-	height:          500px;
+	width:           250px;
+	height:          250px;
 	background:      transparent url('header.jpg') top center no-repeat;
 }
 
 .headtitle
 {
 	position:        relative;
-	font-family:     Times;
+	font-family:     Georgia;
 	font-size:       30px;
-	color:           #FFF;
+	color:           #B6CEDA;
 	top:             210px;
 	left:            12px;
 }
