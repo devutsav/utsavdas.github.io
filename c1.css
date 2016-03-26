@@ -21,14 +21,14 @@ body
 #header
 {
 	margin:          0 auto;
-	width:           250px;
+	width:           500px;
 	height:          250px;
 	background:      transparent url('header.jpg') top center no-repeat;
 }
 
 .headtitle
 {
-	position:        relative;
+	position:        left;
 	font-family:     Georgia;
 	font-size:       30px;
 	color:           #B6CEDA;
