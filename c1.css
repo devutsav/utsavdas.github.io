@@ -21,9 +21,9 @@ body
 #header
 {
 	margin:          0 auto;
-	width:           640px;
-	height:          250px;
-	background:      transparent url('header.jpg') top left no-repeat;
+	width:           500px;
+	height:          500px;
+	background:      transparent url('header.jpg') top center no-repeat;
 }
 
 .headtitle
